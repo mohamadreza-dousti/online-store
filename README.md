@@ -1,7 +1,5 @@
 # Online Store
 
-# Online Store
-
 An online store project built to support online shopping.
 
 ## Overview
